@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{E468F456-C066-4377-A82F-599C11FD3905}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TimeTable/TimeTablePage.xaml.cs">
+    <Files>
+      <File FileName="TimeTable/TimeTablePage.xaml.cs" Line="46" Column="70" />
+      <File FileName="TimeTable/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="Droid/MainActivity.cs" Line="26" Column="25" />
+      <File FileName="TimeTable/App.xaml" Line="7" Column="1" />
+      <File FileName="TimeTable/TimeTablePage.xaml" Line="5" Column="1" />
+      <File FileName="iOS/AppDelegate.cs" Line="18" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TimeTable" expanded="True">
+            <Node name="TimeTable" expanded="True">
+              <Node name="TimeTablePage.xaml" expanded="True" />
+            </Node>
+            <Node name="TimeTable.Droid" expanded="True" selected="True">
+              <Node name="References" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.TimeTable.Droid PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TimeTable.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.086BFFBC-22B0-4233-8A04-A2CCB0DCDE11">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.TimeTable.iOS>
+</Properties>
